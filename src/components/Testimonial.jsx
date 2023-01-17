@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Testimonial = () => {
+function Testimonial() {
     return (
         <div>Testimonial</div>
     )
